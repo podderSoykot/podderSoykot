@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
 </a>   -->
 
-<a href="21mcsi01@iiitdmj.ac.in">
+<a href="mailto:21mcsi01@iiitdmj.ac.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
