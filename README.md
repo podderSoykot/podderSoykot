@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hi;I'm+Soykot+Podder;Looking+for+PhD+position;Machine+Learning+Cyber+Physical+System+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=900&height=280&lines=Hi;I'm+Soykot+Podder;Looking+for+PhD+position;Machine+Learning,+Cyber+Physical+System,+Computer+Vision)](https://git.io/typing-svg)
 
 <!-- <a href="https://podderSoykot.github.io">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
