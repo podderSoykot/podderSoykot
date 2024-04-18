@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/soykot-podder-424684146/](https://bd.linkedin.com/in/soykot-podder-424684146)">
+<a href="https://bd.linkedin.com/in/soykot-podder-424684146">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <!-- 
