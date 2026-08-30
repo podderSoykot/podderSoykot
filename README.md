@@ -49,7 +49,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 ### 🧠 Machine Learning & Deep Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn"/>
 
 <br><br>
 
@@ -59,7 +59,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 ### 🤖 Generative AI & LLM
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,pytorch"/>
 
 <br><br>
 
@@ -69,7 +69,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 ### 👁️ Computer Vision
 
-<img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch"/>
 
 <br><br>
 
@@ -79,7 +79,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker"/>
 
 <br><br>
 
@@ -89,7 +89,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 ### 💻 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,typescript,vite" />
+<img src="https://skillicons.dev/icons?i=react,typescript,vite"/>
 
 <br><br>
 
@@ -99,7 +99,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker,digitalocean,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,digitalocean,git,github"/>
 
 <br><br>
 
