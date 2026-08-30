@@ -51,51 +51,59 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
-<br><br>
+<br>
 
 `Python` • `PyTorch` • `TensorFlow` • `Scikit-learn` • `XGBoost`
 
----
+<br><br>
 
 ### 🤖 Generative AI & LLM
 
 <img src="https://skillicons.dev/icons?i=python,pytorch" />
 
-<br><br>
+<br>
 
 `LLMs` • `RAG` • `AI Agents` • `Embeddings` • `Vector Search` • `Prompt Engineering` • `Fine-Tuning`
 
----
+<br><br>
 
 ### 👁️ Computer Vision
 
 <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
 
-<br><br>
+<br>
 
 `YOLO` • `OpenCV` • `PaddleOCR` • `Tesseract` • `ONNX` • `Image Processing`
 
----
+<br><br>
 
 ### ⚙️ Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker" />
 
-<br><br>
+<br>
 
 `FastAPI` • `REST APIs` • `PostgreSQL` • `MySQL` • `Docker` • `Microservices`
 
----
+<br><br>
 
 ### 💻 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,typescript,vite" />
 
----
+<br>
+
+`React` • `TypeScript` • `Vite`
+
+<br><br>
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,digitalocean,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,digitalocean,git,github" />
+
+<br>
+
+`Linux` • `Nginx` • `Docker Compose` • `DigitalOcean` • `Git` • `GitHub`
 
 </div>
 
@@ -105,33 +113,33 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 ### 🧠 RAG-Based Intelligent Knowledge System
 
-Built a **Retrieval-Augmented Generation (RAG)** system combining semantic search, embeddings, vector retrieval, and LLM-based generation to provide context-aware answers from domain-specific knowledge.
+Building **Retrieval-Augmented Generation (RAG)** systems that combine semantic retrieval, embeddings, vector search, and LLMs to generate context-aware responses from domain-specific knowledge.
 
-**Tech:** `Python` • `LLMs` • `RAG` • `Embeddings` • `Vector Database` • `FastAPI`
+**Core:** `RAG` • `LLMs` • `Embeddings` • `Vector Search` • `Semantic Search` • `FastAPI`
 
 ---
 
 ### 🤖 LLM Fine-Tuning & Domain Adaptation
 
-Developed **LLM fine-tuning pipelines** using domain-specific datasets to adapt language models for specialized AI and cybersecurity use cases.
+Developing **LLM fine-tuning pipelines** for specialized domains, including dataset preparation, instruction tuning, model optimization, and evaluation.
 
-**Tech:** `Python` • `PyTorch` • `Transformers` • `Hugging Face` • `NLP` • `LLM Fine-Tuning`
+**Core:** `PyTorch` • `Transformers` • `Hugging Face` • `NLP` • `Fine-Tuning` • `LLMs`
 
 ---
 
 ### ⚡ MemryX Edge AI & Model Optimization
 
-Worked on deploying and optimizing **deep learning and computer vision models for edge AI hardware**, including model conversion, ONNX workflows, and accelerated inference using **MemryX** accelerators.
+Working with **Edge AI and hardware-accelerated inference**, including computer vision model deployment, ONNX conversion, model optimization, and inference acceleration using MemryX technology.
 
-**Tech:** `Python` • `PyTorch` • `YOLO` • `ONNX` • `MemryX` • `Edge AI`
+**Core:** `PyTorch` • `YOLO` • `ONNX` • `MemryX` • `Edge AI` • `Model Optimization`
 
 ---
 
 ### 🖼️ Image Processing & Computer Vision
 
-Developed computer vision pipelines for **image enhancement, preprocessing, object detection, OCR, image transformation, feature extraction, and real-time visual analysis**.
+Developing image-processing and computer-vision pipelines for **image enhancement, preprocessing, object detection, OCR, feature extraction, image transformation, and real-time visual analysis**.
 
-**Tech:** `Python` • `OpenCV` • `YOLO` • `PyTorch` • `OCR` • `ONNX`
+**Core:** `Python` • `OpenCV` • `YOLO` • `OCR` • `PyTorch` • `ONNX`
 
 ---
 
@@ -139,17 +147,17 @@ Developed computer vision pipelines for **image enhancement, preprocessing, obje
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=podderSoykot&theme=aura_dark" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=podderSoykot&theme=aura_dark" width="95%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=podderSoykot&theme=aura" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=podderSoykot&theme=apprentice" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=podderSoykot&theme=aura" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=podderSoykot&theme=apprentice" width="46%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=podderSoykot&theme=apprentice" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=podderSoykot&theme=dracula&utcOffset=6" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=podderSoykot&theme=apprentice" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=podderSoykot&theme=dracula&utcOffset=6" width="46%"/>
 
 </div>
 
@@ -169,7 +177,7 @@ Developed computer vision pipelines for **image enhancement, preprocessing, obje
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/podderSoykot/podderSoykot/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%">
+<img src="https://raw.githubusercontent.com/podderSoykot/podderSoykot/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
@@ -179,13 +187,43 @@ Developed computer vision pipelines for **image enhancement, preprocessing, obje
 
 <div align="center">
 
-🤖 **Generative AI**   •  
-🧠 **LLM Fine-Tuning**   •  
-🔎 **RAG Systems**   •  
-🦾 **AI Agents**   •  
-👁️ **Computer Vision**   •  
-⚡ **Edge AI**   •  
+🤖 **Generative AI**
+
+  •  
+
+🧠 **LLM Fine-Tuning**
+
+  •  
+
+🔎 **RAG Systems**
+
+  •  
+
+🦾 **AI Agents**
+
+  •  
+
+👁️ **Computer Vision**
+
+  •  
+
+⚡ **Edge AI**
+
+  •  
+
 🚀 **Production AI**
+
+</div>
+
+---
+
+## 📚 Research & Engineering Interests
+
+<div align="center">
+
+`Generative AI` • `Large Language Models` • `RAG` • `AI Agents`
+`Computer Vision` • `Edge AI` • `Model Optimization`
+`Cybersecurity` • `Cyber-Physical Systems` • `Intelligent Systems`
 
 </div>
 
@@ -196,11 +234,19 @@ Developed computer vision pipelines for **image enhancement, preprocessing, obje
 <div align="center">
 
 <a href="mailto:21mcsi01@iiitdmj.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+ 
+
 <a href="https://bd.linkedin.com/in/soykot-podder-424684146">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/podderSoykot">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
