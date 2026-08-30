@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Soykot%20Podder&fontSize=52&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Soykot%20Podder&fontSize=52&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=800\&color=00C9FF\&center=true\&vCenter=true\&width=900\&lines=Machine+Learning+Engineer;AI+Engineer+%7C+Computer+Vision+%7C+LLMs;Generative+AI+%7C+RAG+%7C+AI+Agents;LLM+Fine-Tuning+%7C+Edge+AI;Building+AI+Systems+from+Research+to+Production)](https://git.io/typing-svg)
 
 <br>
 
 <a href="mailto:21mcsi01@iiitdmj.ac.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://bd.linkedin.com/in/soykot-podder-424684146">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/podderSoykot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -51,7 +51,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
-<br>
+<br><br>
 
 `Python` • `PyTorch` • `TensorFlow` • `Scikit-learn` • `XGBoost`
 
@@ -61,7 +61,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 <img src="https://skillicons.dev/icons?i=python,pytorch" />
 
-<br>
+<br><br>
 
 `LLMs` • `RAG` • `AI Agents` • `Embeddings` • `Vector Search` • `Prompt Engineering` • `Fine-Tuning`
 
@@ -71,7 +71,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
 
-<br>
+<br><br>
 
 `YOLO` • `OpenCV` • `PaddleOCR` • `Tesseract` • `ONNX` • `Image Processing`
 
@@ -81,7 +81,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker" />
 
-<br>
+<br><br>
 
 `FastAPI` • `REST APIs` • `PostgreSQL` • `MySQL` • `Docker` • `Microservices`
 
@@ -91,7 +91,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 <img src="https://skillicons.dev/icons?i=react,typescript,vite" />
 
-<br>
+<br><br>
 
 `React` • `TypeScript` • `Vite`
 
@@ -101,7 +101,7 @@ My work spans **Machine Learning, Computer Vision, Generative AI, Large Language
 
 <img src="https://skillicons.dev/icons?i=linux,nginx,docker,digitalocean,git,github" />
 
-<br>
+<br><br>
 
 `Linux` • `Nginx` • `Docker Compose` • `DigitalOcean` • `Git` • `GitHub`
 
@@ -147,17 +147,17 @@ Developing image-processing and computer-vision pipelines for **image enhancemen
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=podderSoykot&theme=aura_dark" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=podderSoykot&theme=aura_dark" width="95%" alt="GitHub Profile Details"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=podderSoykot&theme=aura" width="46%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=podderSoykot&theme=apprentice" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=podderSoykot&theme=aura" width="46%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=podderSoykot&theme=apprentice" width="46%" alt="Repositories Per Language"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=podderSoykot&theme=apprentice" width="46%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=podderSoykot&theme=dracula&utcOffset=6" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=podderSoykot&theme=apprentice" width="46%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=podderSoykot&theme=dracula&utcOffset=6" width="46%" alt="Productive Time"/>
 
 </div>
 
@@ -188,29 +188,11 @@ Developing image-processing and computer-vision pipelines for **image enhancemen
 <div align="center">
 
 🤖 **Generative AI**
-
-  •  
-
 🧠 **LLM Fine-Tuning**
-
-  •  
-
 🔎 **RAG Systems**
-
-  •  
-
 🦾 **AI Agents**
-
-  •  
-
 👁️ **Computer Vision**
-
-  •  
-
 ⚡ **Edge AI**
-
-  •  
-
 🚀 **Production AI**
 
 </div>
@@ -222,7 +204,13 @@ Developing image-processing and computer-vision pipelines for **image enhancemen
 <div align="center">
 
 `Generative AI` • `Large Language Models` • `RAG` • `AI Agents`
+
+<br>
+
 `Computer Vision` • `Edge AI` • `Model Optimization`
+
+<br>
+
 `Cybersecurity` • `Cyber-Physical Systems` • `Intelligent Systems`
 
 </div>
@@ -234,19 +222,19 @@ Developing image-processing and computer-vision pipelines for **image enhancemen
 <div align="center">
 
 <a href="mailto:21mcsi01@iiitdmj.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
  
 
 <a href="https://bd.linkedin.com/in/soykot-podder-424684146">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
  
 
 <a href="https://github.com/podderSoykot">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -255,7 +243,7 @@ Developing image-processing and computer-vision pipelines for **image enhancemen
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 ### 💡 Building AI systems that move from research to reality.
 
